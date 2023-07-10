@@ -30,6 +30,11 @@
             <td><a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Sorting/SortFunctionCollections.java">Sort using Collections.sort (decreasing order)</a></td>
             <td>-</td>
         </tr>
+        <tr>
+            <td><a href = "https://github.com/SaiEswar15/Data-Structures/tree/main/Sorting">Sorting</a></td>
+            <td><a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Sorting/MoveZerosAndOnes.java">Sort Zeros and Ones</a></td>
+            <td>O(N)</td>
+        </tr>
     </table>
     
 
