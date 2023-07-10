@@ -42,3 +42,11 @@ public class SpiralSorting2 {
         }   
     }
 }
+
+
+//points to remember
+//since we already removed the even length arrays 
+//there are exact number of pairs on both halfs
+//so we can put two pointers one at the start and other at the mid 
+//and go to the end but 1
+//if any of the condition doesnt satisfy it changes the flag and breaks out.
