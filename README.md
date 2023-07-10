@@ -8,7 +8,6 @@
         <thead>
             <td>Category</td>
             <td>Description</td>
-            <td>Link</td>
             <td>Time Complexity</td>
         </thead>
         <tr>
