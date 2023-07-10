@@ -37,7 +37,7 @@
         </tr>
         <tr>
             <td><a href = "https://github.com/SaiEswar15/Data-Structures/tree/main/Sorting">Sorting</a></td>
-            <td><a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Sorting/MoveZerosAndOnes.java">Sort Zeros, Ones and twos</a></td>
+            <td><a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Sorting/MoveZerosOnesTwos.java">Sort Zeros, Ones and twos</a></td>
             <td>O(N)</td>
         </tr>
     </table>
