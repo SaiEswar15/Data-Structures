@@ -40,6 +40,22 @@
             <td><a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Sorting/MoveZerosOnesTwos.java">Sort Zeros, Ones and twos</a></td>
             <td>O(N)</td>
         </tr>
+        <tr>
+            <td><a href = "https://github.com/SaiEswar15/Data-Structures/tree/main/Sorting">Sorting</a></td>
+            <td>
+                <a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Sorting/SpiralSorting.java">Spiral Sorting</a>
+                <a href = "https://my.newtonschool.co/playground/code/mmm9ye8s190g">Question</a>
+            </td>
+            <td>O(N*N)</td>
+        </tr>
+        <tr>
+            <td><a href = "https://github.com/SaiEswar15/Data-Structures/tree/main/Sorting">Sorting</a></td>
+            <td>
+                <a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Sorting/SpiralSorting2.java">Spiral Sorting (Two pointers)</a>
+                <a href = "https://my.newtonschool.co/playground/code/mmm9ye8s190g">Question</a>
+            </td>
+            <td>O(N)</td>
+        </tr>
     </table>
     
 
