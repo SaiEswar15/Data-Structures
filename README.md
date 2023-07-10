@@ -35,6 +35,11 @@
             <td><a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Sorting/MoveZerosAndOnes.java">Sort Zeros and Ones</a></td>
             <td>O(N)</td>
         </tr>
+        <tr>
+            <td><a href = "https://github.com/SaiEswar15/Data-Structures/tree/main/Sorting">Sorting</a></td>
+            <td><a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Sorting/MoveZerosAndOnes.java">Sort Zeros, Ones and twos</a></td>
+            <td>O(N)</td>
+        </tr>
     </table>
     
 
