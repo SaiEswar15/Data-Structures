@@ -5,12 +5,12 @@
         <h1>Data Structures Practice Questions</h1>
     </div>
     <table>
-        <th>
+        <thead>
             <td>Category</td>
-            <td>Question Description</td>
+            <td>Description</td>
             <td>Link</td>
             <td>Time Complexity</td>
-        </th>
+        </thead>
         <tr>
             <td>Sorting</td>
             <td>Bubble Sort</td>
