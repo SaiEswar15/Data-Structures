@@ -10,6 +10,7 @@
             <td>Description</td>
             <td>Time Complexity</td>
         </thead>
+        <tbody>
         <tr>
             <td><a href = "https://github.com/SaiEswar15/Data-Structures/tree/main/Sorting">Sorting</a></td>
             <td><a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Sorting/BubbleSort.java">Bubble Sort (increasing order)</a></td>
@@ -70,7 +71,7 @@
             </td>
             <td>O(N)</td>
         </tr>
-        
+        </tbody>
     </table>
     
 
