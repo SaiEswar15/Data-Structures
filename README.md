@@ -56,6 +56,21 @@
             </td>
             <td>O(N)</td>
         </tr>
+        <tr>
+            <td><a href = "https://github.com/SaiEswar15/Data-Structures/tree/main/Sorting">Sorting</a></td>
+            <td>
+                <a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Sorting/MergeSort.java">Merge Sort</a>
+            </td>
+            <td>O(nlogN)</td>
+        </tr>
+        <tr>
+            <td><a href = "https://github.com/SaiEswar15/Data-Structures/tree/main/Sorting">Sorting</a></td>
+            <td>
+                <a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Sorting/MergingSortedArrays.java">Merge Two Sorted Arrays (Two pointers)</a>
+            </td>
+            <td>O(N)</td>
+        </tr>
+        
     </table>
     
 
