@@ -3,28 +3,42 @@
 //Bubble sort 
 //Loop through the array only once O(n)
 
-//output : [0, 0, 0, 1, 1, 1, 1]
+//try : {1,0,0,1,0,1,1};{0,1,1,0,1,1,0}
+
 
 import java.util.Arrays;
 
 public class MoveZerosAndOnes{
     public static void main(String[] args) {
-        int arr[] = new int[]{1,0,0,1,0,1,1};
-        int l = 0;
-        int r = arr.length-1;
+        int[] arr = new int[]{1,0,0,1,0,1,1};
 
-        while(l<r)
+        
+        int i =0;
+        int j = arr.length-1;
+
+        while(i<j)
         {
             int temp = 0;
-            if(arr[l]>=arr[r])
+            if(arr[i] == 0 && arr[j] == 0)
             {
-                temp = arr[l];
-                arr[l] = arr[r];
-                arr[r] = temp;
-                r--;
+                i++;
             }
-            else{
-                l++;
+            else if(arr[i] == 1 && arr[j] == 1)
+            {
+                j--;
+            }
+            else if(arr[i]>arr[j])
+            {
+                temp = arr[i];
+                arr[i] = arr[j];
+                arr[j] = temp;
+                i++;
+                j--;
+            }
+            else
+            {
+                i++;
+                j--;
             }
         }
 
