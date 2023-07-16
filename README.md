@@ -72,6 +72,13 @@
             <td>O(N)</td>
         </tr>
         <tr>
+            <td><a href = "https://github.com/SaiEswar15/Data-Structures/tree/main/Sorting">Sorting</a></td>
+            <td>
+                <a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Sorting/QuickSort.java">Quick Sort</a>
+            </td>
+            <td>O(nlogN)</td>
+        </tr>
+        <tr>
             <td><a href = "https://github.com/SaiEswar15/Data-Structures/tree/main/Strings">Strings</a></td>
             <td>
                 <a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Strings/Looping.java">Looping the string</a>
