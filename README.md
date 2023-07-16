@@ -71,6 +71,42 @@
             </td>
             <td>O(N)</td>
         </tr>
+        <tr>
+            <td><a href = "https://github.com/SaiEswar15/Data-Structures/tree/main/Strings">Strings</a></td>
+            <td>
+                <a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Strings/Looping.java">Looping the string</a>
+            </td>
+            <td>O(N)</td>
+        </tr>
+        <tr>
+            <td><a href = "https://github.com/SaiEswar15/Data-Structures/tree/main/Strings">Strings</a></td>
+            <td>
+                <a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Strings/SplitAndJoin.java">Splitting,Joining,Replacing,Checking the strings</a>
+            </td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td><a href = "https://github.com/SaiEswar15/Data-Structures/tree/main/Strings">Strings</a></td>
+            <td>
+                <a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Strings/Length.java">Finding length</a>
+            </td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td><a href = "https://github.com/SaiEswar15/Data-Structures/tree/main/Strings">Strings</a></td>
+            <td>
+                <a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Strings/Anagram.java">Find the strings are Anagrams</a>
+            </td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td><a href = "https://github.com/SaiEswar15/Data-Structures/tree/main/Strings">Strings</a></td>
+            <td>
+                <a href = "https://github.com/SaiEswar15/Data-Structures/blob/main/Strings/ComplexAnagram.java">Complex Anagram</a>
+                <a href = "#">NS Question</a>
+            </td>
+            <td>-</td>
+        </tr>
         </tbody>
     </table>
     
